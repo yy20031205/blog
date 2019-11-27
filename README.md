@@ -1,8 +1,11 @@
-# blog readme
+# 博客手册
+
 ## 部署到GitHub page
+
 ```bash
 hexo clean && hexo deploy
 ```
+
 # 本博客是基于Hexo、Github Pages构建的!
 
 - [博客地址](https://www.ik8s.cc)
