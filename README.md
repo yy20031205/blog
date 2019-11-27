@@ -1,14 +1,14 @@
 # 博客手册
 
+- **本博客是基于Hexo、Github Pages构建的!**
+
+- **[我的博客地址](https://www.ik8s.cc)**
+
 ## 部署到GitHub page
 
 ```bash
 hexo clean && hexo deploy
 ```
-
-# 本博客是基于Hexo、Github Pages构建的!
-
-- [博客地址](https://www.ik8s.cc)
 
 ## 下载安装
 
