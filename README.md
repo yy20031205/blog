@@ -1,8 +1,11 @@
+# 收集的github仓库说明请看wiki
+
+
 # 博客手册
 
 - **本博客是基于Hexo、Github Pages构建的!**
 
-- **[我的博客地址](https://www.ik8s.cc)**
+- **[我的博客地址](https://www.ik8s.top)**
 
 ## 部署到GitHub page
 
